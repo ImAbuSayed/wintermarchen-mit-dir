@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wintermarchen-mit-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Wintermärchen mit dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wintermarchen-mit-dir/) |
+| **Get License** | [Obtain a Music License for Wintermärchen mit dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wintermarchen-mit-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4a6e1259b7eeee2f478c242325bf57fc811a56b6741af98f68048060bc2ef157` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
